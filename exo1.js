@@ -10,6 +10,3 @@ let string2 = "5";
 
 let result = returnStrings(string1, string2);
 console.log(result);
-
-
-//Second Step
